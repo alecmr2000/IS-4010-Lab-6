@@ -1,9 +1,9 @@
 class Tree {
 
-  String treeName;
-  String treeType;
-  Boolean leavesFall;
-  String leafColor;
+  private String treeName;
+  private String treeType;
+  private Boolean leavesFall;
+  private String leafColor;
   // Above is decalring our variables.
 
   public Tree() {
