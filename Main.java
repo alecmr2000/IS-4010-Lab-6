@@ -1,3 +1,9 @@
+/*
+IS 4010: Lab 6
+Partners: Alec Rezelj and Kiley Hardcorn
+Date: March 9, 2021
+*/
+
 class Main {
   public static void main(String[] args) {
     Tree tree1 = new Tree();
